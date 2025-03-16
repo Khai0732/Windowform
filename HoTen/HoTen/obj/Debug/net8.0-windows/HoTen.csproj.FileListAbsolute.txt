@@ -1,0 +1,16 @@
+D:\C#\HoTen\HoTen\bin\Debug\net8.0-windows\HoTen.exe
+D:\C#\HoTen\HoTen\bin\Debug\net8.0-windows\HoTen.deps.json
+D:\C#\HoTen\HoTen\bin\Debug\net8.0-windows\HoTen.runtimeconfig.json
+D:\C#\HoTen\HoTen\bin\Debug\net8.0-windows\HoTen.dll
+D:\C#\HoTen\HoTen\bin\Debug\net8.0-windows\HoTen.pdb
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.Form1.resources
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.csproj.GenerateResource.cache
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.AssemblyInfoInputs.cache
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.AssemblyInfo.cs
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.csproj.CoreCompileInputs.cache
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.dll
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\refint\HoTen.dll
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.pdb
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\HoTen.genruntimeconfig.cache
+D:\C#\HoTen\HoTen\obj\Debug\net8.0-windows\ref\HoTen.dll

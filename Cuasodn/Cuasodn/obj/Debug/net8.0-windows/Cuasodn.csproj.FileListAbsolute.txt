@@ -1,0 +1,16 @@
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.Form1.resources
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.csproj.GenerateResource.cache
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.AssemblyInfoInputs.cache
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.AssemblyInfo.cs
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.csproj.CoreCompileInputs.cache
+D:\C#\Cuasodn\Cuasodn\bin\Debug\net8.0-windows\Cuasodn.exe
+D:\C#\Cuasodn\Cuasodn\bin\Debug\net8.0-windows\Cuasodn.deps.json
+D:\C#\Cuasodn\Cuasodn\bin\Debug\net8.0-windows\Cuasodn.runtimeconfig.json
+D:\C#\Cuasodn\Cuasodn\bin\Debug\net8.0-windows\Cuasodn.dll
+D:\C#\Cuasodn\Cuasodn\bin\Debug\net8.0-windows\Cuasodn.pdb
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.dll
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\refint\Cuasodn.dll
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.pdb
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\Cuasodn.genruntimeconfig.cache
+D:\C#\Cuasodn\Cuasodn\obj\Debug\net8.0-windows\ref\Cuasodn.dll
