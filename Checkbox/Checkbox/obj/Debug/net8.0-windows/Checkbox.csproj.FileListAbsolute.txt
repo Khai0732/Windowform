@@ -1,0 +1,16 @@
+D:\C#\Checkbox\Checkbox\bin\Debug\net8.0-windows\Checkbox.exe
+D:\C#\Checkbox\Checkbox\bin\Debug\net8.0-windows\Checkbox.deps.json
+D:\C#\Checkbox\Checkbox\bin\Debug\net8.0-windows\Checkbox.runtimeconfig.json
+D:\C#\Checkbox\Checkbox\bin\Debug\net8.0-windows\Checkbox.dll
+D:\C#\Checkbox\Checkbox\bin\Debug\net8.0-windows\Checkbox.pdb
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.Form1.resources
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.csproj.GenerateResource.cache
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.AssemblyInfoInputs.cache
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.AssemblyInfo.cs
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.csproj.CoreCompileInputs.cache
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.dll
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\refint\Checkbox.dll
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.pdb
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\Checkbox.genruntimeconfig.cache
+D:\C#\Checkbox\Checkbox\obj\Debug\net8.0-windows\ref\Checkbox.dll
