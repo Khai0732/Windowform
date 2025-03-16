@@ -1,0 +1,17 @@
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\bin\Debug\net8.0-windows\ProgressBar-Timer.exe
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\bin\Debug\net8.0-windows\ProgressBar-Timer.deps.json
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\bin\Debug\net8.0-windows\ProgressBar-Timer.runtimeconfig.json
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\bin\Debug\net8.0-windows\ProgressBar-Timer.dll
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\bin\Debug\net8.0-windows\ProgressBar-Timer.pdb
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar_Timer.Form1.resources
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar_Timer.Form2.resources
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.csproj.GenerateResource.cache
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.AssemblyInfoInputs.cache
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.AssemblyInfo.cs
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.csproj.CoreCompileInputs.cache
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.dll
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\refint\ProgressBar-Timer.dll
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.pdb
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ProgressBar-Timer.genruntimeconfig.cache
+D:\C#\ProgressBar-Timer\ProgressBar-Timer\obj\Debug\net8.0-windows\ref\ProgressBar-Timer.dll
