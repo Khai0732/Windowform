@@ -1,0 +1,16 @@
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net8.0-windows\frmEmployeeDetails.exe
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net8.0-windows\frmEmployeeDetails.deps.json
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net8.0-windows\frmEmployeeDetails.runtimeconfig.json
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net8.0-windows\frmEmployeeDetails.dll
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\bin\Debug\net8.0-windows\frmEmployeeDetails.pdb
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.Form1.resources
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.csproj.GenerateResource.cache
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.AssemblyInfoInputs.cache
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.AssemblyInfo.cs
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.csproj.CoreCompileInputs.cache
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.dll
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\refint\frmEmployeeDetails.dll
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.pdb
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\frmEmployeeDetails.genruntimeconfig.cache
+D:\C#\frmEmployeeDetails\frmEmployeeDetails\obj\Debug\net8.0-windows\ref\frmEmployeeDetails.dll

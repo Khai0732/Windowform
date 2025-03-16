@@ -1,0 +1,16 @@
+D:\C#\Cong2so\Cong2so\bin\Debug\net8.0-windows\Cong2so.exe
+D:\C#\Cong2so\Cong2so\bin\Debug\net8.0-windows\Cong2so.deps.json
+D:\C#\Cong2so\Cong2so\bin\Debug\net8.0-windows\Cong2so.runtimeconfig.json
+D:\C#\Cong2so\Cong2so\bin\Debug\net8.0-windows\Cong2so.dll
+D:\C#\Cong2so\Cong2so\bin\Debug\net8.0-windows\Cong2so.pdb
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.Form1.resources
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.csproj.GenerateResource.cache
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.AssemblyInfoInputs.cache
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.AssemblyInfo.cs
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.csproj.CoreCompileInputs.cache
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.dll
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\refint\Cong2so.dll
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.pdb
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\Cong2so.genruntimeconfig.cache
+D:\C#\Cong2so\Cong2so\obj\Debug\net8.0-windows\ref\Cong2so.dll
